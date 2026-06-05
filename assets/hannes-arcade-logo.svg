@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">HannesTolmay Arcade Logo</title>
+  <desc id="desc">A bold arcade-style HT logo for Free Games and More Here.</desc>
+  <rect width="240" height="240" rx="34" fill="#15242d"/>
+  <path d="M42 58h38v44h38V58h38v124h-38v-48H80v48H42V58Z" fill="#ffd35d"/>
+  <path d="M156 58h52v30h-52V58Zm7 40h38v84h-38V98Z" fill="#ef6254"/>
+  <path d="M40 200h160" stroke="#4f8fd9" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="196" cy="196" r="15" fill="#3acda7"/>
+</svg>
